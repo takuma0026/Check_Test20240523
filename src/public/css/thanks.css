@@ -1,0 +1,45 @@
+.header {
+    background: #000;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+}
+
+.header__logo {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.thanks__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+}
+
+.thanks__heading {
+    margin-bottom: 40px;
+    margin-top: 25vw;
+    display: flex;
+    justify-content: center;
+    color: #8B7969;
+}
+
+.thanks_home {
+    max-width: 1230px;
+    text-align: center;
+
+}
+
+.thanks_link {
+    text-decoration: none;
+    background-color: #8B7969;
+    color: white;
+    padding: 10px 50px 10px 50px;
+    font-size: 20px;
+
+}
